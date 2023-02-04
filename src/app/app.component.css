@@ -1,0 +1,31 @@
+.about-content{
+    padding-top: 4%;
+}
+
+.contact-office-address{
+    display: flex;
+    justify-content: space-between;
+    white-space: pre-wrap;
+}
+
+.contact-addresses-content{
+    padding-top: 0%;
+}
+
+.footer-background{
+ background-color: #3b58e2;   
+ height: 45px;
+ 
+}
+
+#about_us h6{
+    text-align: justify;
+}
+
+#about_us .about-content p{
+    text-align: justify;
+}
+
+#contact p {
+    text-align: justify;
+}
